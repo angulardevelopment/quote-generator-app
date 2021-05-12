@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "quote-generator"
+  "defaultProject": "quote-generator",
+  "cli": {
+    "analytics": false
+  }
 }
