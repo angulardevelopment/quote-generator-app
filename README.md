@@ -1,8 +1,9 @@
 # About
 
 This app will generate random quotes on click.
-
-# QuoteGenerator
+In this, it will generate the random quote on button click. it also shows the current date and time.
+we can share quote to twitter.
+# Random Quote Generator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
 
