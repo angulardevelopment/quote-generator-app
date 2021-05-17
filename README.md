@@ -1,3 +1,7 @@
+# About
+
+This app will generate random quotes on click.
+
 # QuoteGenerator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
