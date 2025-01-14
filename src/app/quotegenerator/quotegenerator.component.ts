@@ -3,7 +3,8 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-quotegenerator',
   templateUrl: './quotegenerator.component.html',
-  styleUrls: ['./quotegenerator.component.css']
+  styleUrls: ['./quotegenerator.component.css'],
+  standalone: false
 })
 export class QuotegeneratorComponent implements OnInit {
 
